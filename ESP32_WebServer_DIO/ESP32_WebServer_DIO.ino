@@ -2,7 +2,7 @@
 #include <WiFi.h>
 
 // Replace with your network credentials
-const char* ssid = "East'sNetwork";
+const char* ssid = "luna";
 const char* password = "Kobe2018";
 
 // Set web server port number to 80
